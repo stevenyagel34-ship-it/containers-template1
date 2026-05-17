@@ -17,7 +17,12 @@
 	},
 	"dependencies": {
 		"@cloudflare/containers": "0.0.30",
-		"hono": "4.11.1"
+		"@storybook/react": "^10.4.0",
+		"@types/react": "^19.2.14",
+		"hono": "4.11.1",
+		"react-is": "^19.2.6",
+		"react-router": "^7.15.1",
+		"react-smooth": "^4.0.4"
 	},
 	"devDependencies": {
 		"typescript": "5.9.3",
